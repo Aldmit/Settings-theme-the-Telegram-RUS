@@ -9,4 +9,4 @@
 https://github.com/telegramdesktop/tdesktop/wiki/Theme-Reference
 
 
-<img src="Tgm.PNG"></img>
+<img src="https://github.com/Aldmit/Settings-theme-the-Telegram-RUS/blob/master/Tgm.JPG"></img>
