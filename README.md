@@ -7,3 +7,6 @@
 
 Ссылка на оригинальный источник:
 https://github.com/telegramdesktop/tdesktop/wiki/Theme-Reference
+
+
+<img src="Tgm.PNG"></img>
